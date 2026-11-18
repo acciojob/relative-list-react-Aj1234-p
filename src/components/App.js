@@ -3,7 +3,7 @@ import React from 'react'
 const App = () => {
   return (
     <div id="main">
-              <ol key={relativeList}>
+              <ol>
                 <li key={ relativeListItem1 }>jagdish</li>
                 <li key={ relativeListItem2 }>Subhash</li>
                 <li key={ relativeListItem3 }>Jayprakash</li>
